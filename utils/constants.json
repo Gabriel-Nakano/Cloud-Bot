@@ -1,0 +1,49 @@
+{
+    "token": "MTA2NDI0MzM0NDU3NTgyODA5OQ.GfceV6.I7woQZgmFQUkMuZqWCPcKJEGyxga8NRwC5YvaI",
+    "prefix": "c!",
+    "owner_id": "285605086259052546",
+    "guild_id": "1064219676625866952",
+    "embed": {
+        "color": "BLUE",
+        "secondary_color": "PINK"
+    },
+    "categories": {
+        "financial": "870135776199979048",
+        "reports": "870135815227985950",
+        "request_tag": "870135339933638696",
+        "general_doubts": "870135907024515112"
+    },
+    "channels": {
+        "commands": "1064359521696358470",
+        "suggestions": "1064359521696358470",
+        "make_suggestion": "1064359521696358470",
+        "logs": "1064359324295647302",
+        "invites": "1064219678026772533"
+    },
+    "roles": {
+        "staff": "1064246983755313193",
+        "member": "1064299714272571392",
+        "ceo": "1064246983755313193",
+        "direction": "1064297670035910766",
+        "administration": "1064297670035910766",
+        "coordination": "957117343178317854",
+        "moderation": "1064298084726739005",
+        "support": "1064298084726739005",
+        "intern": "945267593621692426"
+    },
+    "emojis": {
+        "suggestion_yes": "<:certo:870842898965491803>",
+        "suggestion_no": "<:errado:870842899296829490>",
+        "help_option_back": "⬅️",
+        "help_option_everyone": "🌐",
+        "help_option_team": "👥",
+        "help_option_moderation": "🔧",
+        "help_option_giveaways": "🎉",
+        "survey_yes": "<:certo:870842898965491803>",
+        "survey_no": "<:errado:870842899296829490>",
+        "ticket_financial": "💸",
+        "ticket_reports": "⚠️",
+        "ticket_request_tag": "❗",
+        "ticket_general_doubts": "💬"
+    }
+}
